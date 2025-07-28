@@ -2,7 +2,7 @@
 
 ## I Just want to play the game
 * [It's on Steam](https://store.steampowered.com/app/1660910/Tanks_The_Crusades/)
-* [Latest Release](https://github.com/aehmttw/tanks/releases)
+* [Latest Release](https://github.com/damdollor999/Tanks:The Crusades/releases)
 
 ## Dependencies
 * [Java](https://www.java.com/en/)
